@@ -1,3 +1,4 @@
+
 let werewolfLog = [];
 
 function transformIntoWerewolf(event) {
